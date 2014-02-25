@@ -1,7 +1,7 @@
 inherit kde4
 
 NAME="kspaceduel"
-VERSION=4.10.5
+VERSION=4.11.5
 RELEASE=1
 CATEGORY="Games"
 SUMMARY="KDE space battle game"
